@@ -31,4 +31,5 @@ Project Overview
 Result Snippets Links
 
 https://github.com/ADITIBANSAL06/Report-Category-Classification-Detector/blob/main/text_classification_SS_Flask.png
+https://github.com/ADITIBANSAL06/Report-Category-Classification-Detector/blob/main/text_classification_SS_Streamlit.png
 
