@@ -28,4 +28,7 @@ Project Overview
 
     Streamlit app (streamlit_app.py) for a simple interactive UI.
   
-Result Snippets
+Result Snippets Links
+
+https://github.com/ADITIBANSAL06/Report-Category-Classification-Detector/blob/main/text_classification_SS_Flask.png
+
