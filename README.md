@@ -2,10 +2,7 @@
 
 This project classifies user queries into one of four categories:
 
-Career / Job
-Love / Relationship
-Health / Wellness
-Finance / Money
+Career / Job , Love / Relationship ,Health / Wellness , Finance / Money
 
 It was developed as part of an internship task to demonstrate skills in dataset creation, text preprocessing, model training, evaluation, and deployment.
 
